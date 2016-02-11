@@ -1,5 +1,5 @@
 # AutocadLisp
-Script lisp pour Autocad, Covadis, Recap et CloudWorks ( nuages de points )
+Script lisp pour Autocad, Covadis, Recap et CloudWorx ( nuages de points )
 
 # recap_topo.lisp
 Création de points topo Covadis avec un clic pour la position XY et un clic ,avec acrochage au nuage de point, pour le Z
