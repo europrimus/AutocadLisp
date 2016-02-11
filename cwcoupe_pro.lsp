@@ -1,5 +1,5 @@
 ;;Auteur: Didier COURTY
-;;Pour Autocad Map 3D et Cloudwoks (http://leica-geosystems.com/products/laser-scanners/software/leica-cloudworx)
+;;Pour Autocad Map 3D et Cloudwoks PRO (http://leica-geosystems.com/products/laser-scanners/software/leica-cloudworx)
 
 (defun c:cwcoupe ( / oldosmode oldcmdecho derplan oldattdia)
 	 (setq oldosmode (getvar "osmode"))(setvar "osmode" 0)
